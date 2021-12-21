@@ -1,7 +1,7 @@
 package br.com.meli;
 
 
-public abstract class Funcionario {
+public  class Funcionario {
     protected Long id;
     protected String nome;
     protected Integer identificacao;
