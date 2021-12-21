@@ -1,5 +1,5 @@
 # Introdução a linguagem Java
-## Você recebeu a solicitação para desenvolver um sistema de gerenciamento de funcionários em uma empresa.<br> Pela escala hierárquica temos dois tipos de funcionários, CLT e PJ.<br> Funcionários PJ são prestadores de serviços e recebem por hora trabalhada. <br>Funcionários CLT recebem de acordo com o cargo que ocupam na empresa + Bônus e gratificações que são calculados em porcentagem do salário base.<br> Em geral Funcionários CLT são divididos na seguinte hierarquia: Técnicos, analistas, gerentes e diretores
+Você recebeu a solicitação para desenvolver um sistema de gerenciamento de funcionários em uma empresa.<br> Pela escala hierárquica temos dois tipos de funcionários, CLT e PJ.<br> Funcionários PJ são prestadores de serviços e recebem por hora trabalhada. <br>Funcionários CLT recebem de acordo com o cargo que ocupam na empresa + Bônus e gratificações que são calculados em porcentagem do salário base.<br> Em geral Funcionários CLT são divididos na seguinte hierarquia: Técnicos, analistas, gerentes e diretores
 
 
 * Técnicos recebem bonificação de 5% por meta batida, trabalham uma jornada
